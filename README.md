@@ -31,7 +31,7 @@ To unlock the wonders of this project, simply follow these steps:
 <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695746379/scrnli_9_26_2023_10-36-44_PM_xicmwi.jpg" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Support
-Need assistance? Drop us a line at info@cabbageweb.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="15"></a> messenger.
+Need assistance? Drop us a line at info@cabbageweb.com or hop on over to our lively <a href="https://wa.me/message/UAXIYNES562EN1"><img src="https://lh3.googleusercontent.com/d/13j7AgG4Pp_eWgaRoV6XH49vDU7-5TbEm" width="15" height="59"></a> messenger.
 
 ## Authors
 - [www.cabbageweb.com](https://www.cabbageweb.com/)
