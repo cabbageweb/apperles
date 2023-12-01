@@ -4,7 +4,7 @@
 Apperle is a static html portfolio template build with material-ui, jQuery and designed for any agency mobile app website. This portfolio seamlessly adapts to various screen sizes and ensuring a flawless user experience and super animations with all weather update.
 
 ## Live demo
-https://cabbgeweb.github.io/apperles/
+[https://cabbgeweb.github.io/apperles/](https://cabbageweb.github.io/apperles/)
 
 ## Run Locally
 To unlock the wonders of this project, simply follow these steps:
